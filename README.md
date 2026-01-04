@@ -1,8 +1,8 @@
 # Hi, I'm Ayush Pithale 
 
-**Full Stack Developer | React | Next.js | React Native | Python **
+Full Stack Developer | React | Next.js | React Native | Python 
 
-Software Developer with **2+ years of experience** building scalable full-stack web applications and cross-platform mobile apps.  
+Software Developer with 2+ years of experience building scalable full-stack web applications and cross-platform mobile apps.  
 Focused on clean code, performance optimization, and user-centric UI.
 
 ---
