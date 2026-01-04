@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Ayush Pitahle 👋
 
-<!--
-**AyushPithale/AyushPithale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer with 2+ years of experience  
+💻 MERN Stack | React Native  
+📱 Building scalable web & mobile applications
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend:** React, Next.js, Redux, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Mobile:** React Native
+- **Tools:** Git, GitHub, Postman, Firebase, Docker (if applicable)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 What I Do
+- Develop full-stack web applications
+- Build cross-platform mobile apps using React Native
+- Write clean, maintainable, and scalable code
+
+### 📈 Current Focus
+- Performance optimization
+- Clean architecture
+- Advanced React patterns
+
+### 📫 Connect with Me
+- LinkedIn: <link>
+- Portfolio: <link>
