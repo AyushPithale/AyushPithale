@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi, I'm Ayush Pithale 
 
-**MERN Stack Developer | React | Next.js | React Native**
+**Full Stack Developer | React | Next.js | React Native**
 
 Software Developer with **2+ years of experience** building scalable full-stack web applications and cross-platform mobile apps.  
 Focused on clean code, performance optimization, and user-centric UI.
