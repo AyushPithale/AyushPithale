@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Pithale 
 
-**Full Stack Developer | React | Next.js | React Native**
+**Full Stack Developer | React | Next.js | React Native | Python **
 
 Software Developer with **2+ years of experience** building scalable full-stack web applications and cross-platform mobile apps.  
 Focused on clean code, performance optimization, and user-centric UI.
@@ -16,7 +16,7 @@ Focused on clean code, performance optimization, and user-centric UI.
 - JavaScript, TypeScript, HTML5, CSS3
 
 ### Backend
-- Node.js, Express.js
+- Node.js, Express.js, Python 
 - REST APIs, GraphQL
 - Authentication & Authorization (JWT)
 
@@ -26,8 +26,10 @@ Focused on clean code, performance optimization, and user-centric UI.
 
 ### Tools & Platforms
 - Git, GitHub
+- Open AI SDK
+- Expo
 - Postman
-- Vercel, Supabase, Google Cloud
+- Vercel, Supabase, Google Cloud, AWS
 - Figma, Notion
 
 ---
