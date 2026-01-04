@@ -1,26 +1,56 @@
-## Hi, I'm Ayush Pitahle 👋
+# Hi there 👋
 
-🚀 Software Developer with 2+ years of experience  
-💻 MERN Stack | React Native  
-📱 Building scalable web & mobile applications
+**MERN Stack Developer | React | Next.js | React Native**
 
-### 🛠 Tech Stack
-- **Frontend:** React, Next.js, Redux, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Mobile:** React Native
-- **Tools:** Git, GitHub, Postman, Firebase, Docker (if applicable)
+Software Developer with **2+ years of experience** building scalable full-stack web applications and cross-platform mobile apps.  
+Focused on clean code, performance optimization, and user-centric UI.
 
-### 📌 What I Do
-- Develop full-stack web applications
-- Build cross-platform mobile apps using React Native
-- Write clean, maintainable, and scalable code
+---
 
-### 📈 Current Focus
-- Performance optimization
-- Clean architecture
-- Advanced React patterns
+## 🔧 Tech Stack
 
-### 📫 Connect with Me
-- LinkedIn: <link>
-- Portfolio: <link>
+### Frontend
+- React, Next.js, React Native
+- Redux, Context API
+- Tailwind CSS, Bootstrap, Framer Motion
+- JavaScript, TypeScript, HTML5, CSS3
+
+### Backend
+- Node.js, Express.js
+- REST APIs, GraphQL
+- Authentication & Authorization (JWT)
+
+### Databases
+- MongoDB, PostgreSQL, MySQL
+- Redis
+
+### Tools & Platforms
+- Git, GitHub
+- Postman
+- Vercel, Supabase, Google Cloud
+- Figma, Notion
+
+---
+
+## 💼 What I Work On
+- Full-stack MERN applications
+- Cross-platform mobile apps using React Native
+- Secure authentication & API integrations
+- Performance-focused frontend & backend systems
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=react&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true)
+
+---
+
+## 🌐 Connect
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- Portfolio: https://your-portfolio.com
+- Email: your-email@gmail.com
